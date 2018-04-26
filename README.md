@@ -1,0 +1,2 @@
+# checkWeChatFriendsIsDeleted
+检查微信好友是否被删除
